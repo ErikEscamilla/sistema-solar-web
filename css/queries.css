@@ -1,0 +1,43 @@
+@media (max-width:900px){
+
+.planeta-img{
+width:220px;
+height:220px;
+}
+
+}
+
+@media (max-width:768px){
+
+nav{
+display:flex;
+flex-direction:column;
+gap:10px;
+}
+
+h1{
+font-size:30px;
+}
+
+p{
+font-size:16px;
+}
+
+}
+
+@media (max-width:500px){
+
+.contenido{
+padding:20px;
+}
+
+.lista-planetas{
+grid-template-columns:1fr;
+}
+
+.card-bienvenida{
+margin:20px;
+}
+
+}
+
