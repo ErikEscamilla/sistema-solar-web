@@ -6,8 +6,10 @@ Proyecto educativo desarrollado para el examen parcial 1 de IBDR.
 * Danna Camila Amado Amaya
 * Erik Eduardo Escamilla Borbon
 * Camila Alejandra Felix Estrada
+* Keren Miryam Huitron Soto
 * Karol Sofía Olivares Gómez
 * Natalia Soto Valle
+
 
 ## Estructura del Proyecto
 * `index.html`: Estructura principal.
@@ -25,4 +27,5 @@ Proyecto educativo desarrollado para el examen parcial 1 de IBDR.
 1. Descarga el repositorio o carpeta.
 
 2. Abre `index.html` en tu navegador.
+
 
